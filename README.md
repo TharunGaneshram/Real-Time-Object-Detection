@@ -12,7 +12,7 @@ This project implements a Object recognition system using TensorFlow and OpenCV.
   - Trained unsupervised ML model.
   - Live video processing with OpenCV.
 
-## Features
+## Development
 
 - **Training Process:**
   - TensorFlow and OpenCV used for unsupervised model training.
